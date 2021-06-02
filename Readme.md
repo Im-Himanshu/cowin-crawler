@@ -11,6 +11,6 @@ $ jupyter notebook
 ```
 
 
-2. Run the cowincrawler.ipynb file
-    i) run all the cells one after another till you reach the last cell
-    ii) keep running the last cell, it will open a new tab only when there is slot availiable. 
+2. Run the cowincrawler.ipynb file  
+    i) run all the cells one after another till you reach the last cell  
+    ii) keep running the last cell, it will open a new tab only when there is slot availiable.  
